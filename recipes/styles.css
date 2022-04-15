@@ -24,3 +24,17 @@ div {
     font-size: 24px;
     font-weight: bold;
 }
+/* Exercise 3 */
+
+.click
+.noclick {
+    font-size: 28px;
+    font-family: "helvatica", "Times New Roman", sans-serif;
+}
+.click {
+    background-color: black;
+    color: white;
+}
+.no-click {
+    background-color: yellow;
+}
