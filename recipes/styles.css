@@ -25,11 +25,10 @@ div {
     font-weight: bold;
 }
 /* Exercise 3 */
-
 .click
 .noclick {
     font-size: 28px;
-    font-family: "helvatica", "Times New Roman", sans-serif;
+    font-family: Helvetica, "Times New Roman", sans-serif;
 }
 .click {
     background-color: black;
@@ -37,4 +36,15 @@ div {
 }
 .no-click {
     background-color: yellow;
+}
+
+/* Exercise 4 */
+.avatar.proportioned {
+    width: 300px;
+    height: auto;
+}
+
+.avatar.distorted {
+    width: 200px;
+    height: 400px;
 }
